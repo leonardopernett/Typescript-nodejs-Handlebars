@@ -20,7 +20,7 @@
     "@types/mongoose": "^5.7.0",
     "@types/morgan": "^1.7.37",
     "express": "^4.17.1",
-    "express-handlebars": "^3.1.0",
+    "express-handlebars": "^5.3.1",
     "mongoose": "^5.8.11",
     "morgan": "^1.9.1",
     "ts-node": "^8.6.2",
